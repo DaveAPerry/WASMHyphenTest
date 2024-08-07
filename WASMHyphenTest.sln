@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WASMHyphenTest", "WASMHyphenTest\WASMHyphenTest.csproj", "{ECD46958-BE78-4B85-B157-341E06AB67F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD46958-BE78-4B85-B157-341E06AB67F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD46958-BE78-4B85-B157-341E06AB67F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD46958-BE78-4B85-B157-341E06AB67F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD46958-BE78-4B85-B157-341E06AB67F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986DCEBB-4B6E-4D9A-A0BC-C21F585A198E}
+	EndGlobalSection
+EndGlobal
